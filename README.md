@@ -1,14 +1,7 @@
 # Dos-Attacker
 Un outil simple et rapide d'utilisation pour effectuer une attaque DoS
 
-Usage: 
-
-________   ________    _________ 
-\______ \  \_____  \  /   _____/ 
- |    |  \  /   |   \ \_____  \  
- |    `   \/    |    \/        \ 
-/_______  /\_______  /_______  / 
-        \/         \/        \/  attacker
+Usage:
 
 [Options]:
 		
